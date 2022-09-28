@@ -1,0 +1,32 @@
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\OS_Practice1.exe.config
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\OS_Practice1.exe
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\OS_Practice1.pdb
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Text.Json.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Memory.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\bin\Debug\System.Buffers.dll
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.csproj.CopyComplete
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.exe
+C:\Users\student\Source\Repos\OS_Practice1\OS_Practice1\obj\Debug\OS_Practice1.pdb
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\Praktika1.exe.config
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\Praktika1.exe
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\Praktika1.pdb
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Text.Json.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Memory.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\bin\Debug\System.Buffers.dll
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\OS_Practice1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\OS_Practice1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\OS_Practice1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\OS_Practice1.csproj.CopyComplete
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\Praktika1.exe
+C:\Users\student\Desktop\Практика 1 ОС Григорьев.Д.А. БББО-09-21\OS_Practice1\obj\Debug\Praktika1.pdb
